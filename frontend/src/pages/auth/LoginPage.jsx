@@ -67,7 +67,7 @@ function LoginPage({ setAuth }) {
     </form>
 
     <p className="text-center mt-4 text-sm">
-        Don’t have an account?{""}
+        Don’t have an account?{" "}
         <Link to="/register" className="text-accent hover:underline">Register</Link>
     </p>
     </div>
