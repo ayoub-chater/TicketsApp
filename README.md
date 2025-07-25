@@ -88,4 +88,4 @@ This will:
 ## 🙋‍♂️ Author
 
 🌍 Developed by [Ayoub Chater](https://www.ayoubchater.com) 
-📧 hello@ayoubchater.com 
+📧 hello@ayoubchater.com
